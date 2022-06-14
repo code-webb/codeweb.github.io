@@ -3,7 +3,7 @@
     margin: 0px;
 }
 body {
-    background-image: url(../images/back1.jpeg);
+    background-image: url(images/back1.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
     
@@ -27,7 +27,7 @@ ul li {
     background-color:rgb(182, 7, 7);
     float: left;
     list-style: none;
-    width: 340.8px;
+    width: 320px;
     height: 40px;
     text-align: center;
     line-height: 40px;
