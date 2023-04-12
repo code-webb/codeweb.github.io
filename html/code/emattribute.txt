@@ -1,1 +1,0 @@
-The <em> tag does not contain any specific attribute in HTML.
